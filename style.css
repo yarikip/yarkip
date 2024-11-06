@@ -1,0 +1,26 @@
+body{
+    background: #111822;
+    
+}
+
+.page{
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.photo{
+
+    width: 720px;
+    height: 1024px;
+    background-image: url(assets/background.png);
+    
+}
+
+.left{
+
+    width: 720px;
+    height: 1024px;
+    
+}
